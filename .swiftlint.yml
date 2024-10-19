@@ -1,0 +1,3 @@
+opt_in_rules:
+    - operator_usage_whitespace
+    - empty_count
